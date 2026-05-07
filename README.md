@@ -1,4 +1,4 @@
-# MUI Card Display Project
+# Landing Page Using MUI  Project
 
 A React application built with Vite and Material-UI (MUI) that showcases a responsive card layout with multiple sections.
 
